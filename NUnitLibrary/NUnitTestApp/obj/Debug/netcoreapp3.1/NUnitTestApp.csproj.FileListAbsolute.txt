@@ -1,0 +1,17 @@
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.exe
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.deps.json
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.runtimeconfig.json
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.runtimeconfig.dev.json
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.dll
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitTestApp.pdb
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.csproj.AssemblyReference.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.AssemblyInfoInputs.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.AssemblyInfo.cs
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.dll
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.pdb
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.genruntimeconfig.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitLibrary.dll
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\bin\Debug\netcoreapp3.1\NUnitLibrary.pdb
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitTestApp\obj\Debug\netcoreapp3.1\NUnitTestApp.csproj.CopyComplete

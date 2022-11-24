@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "StudentDetails";
+}
+
+<h1>StudentDetails</h1>
+
+@model ValidationDemo.Models.Student
+
+@using (Html.BeginForm("StudentDetails", "Student", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.name)
+        @Html.TextBoxFor(m => m.name)
+        @Html.ValidationMessageFor(m => m.name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.age)
+        @Html.TextBoxFor(m => m.age)
+        @Html.ValidationMessageFor(m => m.age, "", new { @class = "text-danger" })
+    </div>
+
+    <input type="submit" value="submit" class="btn btn-primary" />
+}
+
+<h3>Student details are:</h3>
+
+<b>NAME:</b> @ViewBag.name
+<b>AGE:</b> @ViewBag.age

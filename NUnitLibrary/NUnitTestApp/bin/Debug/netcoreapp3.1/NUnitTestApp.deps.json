@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NUnitTestApp/1.0.0": {
+        "dependencies": {
+          "NUnitLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NUnitTestApp.dll": {}
+        }
+      },
+      "NUnitLibrary/1.0.0": {
+        "runtime": {
+          "NUnitLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnitTestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnitLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

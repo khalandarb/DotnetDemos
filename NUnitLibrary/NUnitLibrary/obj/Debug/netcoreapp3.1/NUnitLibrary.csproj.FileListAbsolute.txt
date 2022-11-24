@@ -1,0 +1,10 @@
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\bin\Debug\netcoreapp3.1\NUnitLibrary.deps.json
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\bin\Debug\netcoreapp3.1\NUnitLibrary.dll
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\bin\Debug\netcoreapp3.1\NUnitLibrary.pdb
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.csproj.AssemblyReference.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.AssemblyInfoInputs.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.AssemblyInfo.cs
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.dll
+C:\Users\2000080648\source\repos\NUnitLibrary\NUnitLibrary\obj\Debug\netcoreapp3.1\NUnitLibrary.pdb

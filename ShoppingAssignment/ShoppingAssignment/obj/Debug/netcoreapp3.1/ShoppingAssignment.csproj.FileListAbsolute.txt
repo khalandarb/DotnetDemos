@@ -1,0 +1,14 @@
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.exe
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.deps.json
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.runtimeconfig.json
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.runtimeconfig.dev.json
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.dll
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\bin\Debug\netcoreapp3.1\ShoppingAssignment.pdb
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.csproj.AssemblyReference.cache
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.AssemblyInfoInputs.cache
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.AssemblyInfo.cs
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.dll
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.pdb
+C:\Users\2000080648\source\repos\ShoppingAssignment\ShoppingAssignment\obj\Debug\netcoreapp3.1\ShoppingAssignment.genruntimeconfig.cache

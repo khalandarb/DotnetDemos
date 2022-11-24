@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e989159a7c3b40c4a21b2048305ef7b4" Name="Diagram1">
+        <EntityTypeShape EntityType="Auth_Dotnet_80648Model.Employee" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Auth_Dotnet_80648Model.RoleMaster" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Auth_Dotnet_80648Model.UserRolesMapping" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Auth_Dotnet_80648Model.User" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="Auth_Dotnet_80648Model.FK__UserRoles__RoleI__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="Auth_Dotnet_80648Model.FK__UserRoles__UserI__2A4B4B5E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
